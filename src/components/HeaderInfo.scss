@@ -1,0 +1,12 @@
+@import "~bootstrap/scss/bootstrap";
+
+.Header{
+    background-color: blue;
+    color: #ecf0f1;
+    display: flex;
+    justify-content: center;
+    h1{
+        padding: 3% 10% 3% 0px;
+        font-size: 30px;
+    }
+}

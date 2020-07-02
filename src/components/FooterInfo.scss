@@ -1,0 +1,14 @@
+@import "~bootstrap/scss/bootstrap";
+
+.Footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: blue;
+    color: #ecf0f1;
+    display: flex;
+    justify-content: center;
+    a{color: #7f8c8d;
+      text-decoration: underline;
+    }
+}
