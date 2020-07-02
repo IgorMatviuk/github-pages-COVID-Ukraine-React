@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github-pages-COVID-Ukraine-React/static/css/main.99eaa828.chunk.css",
+    "main.js": "/github-pages-COVID-Ukraine-React/static/js/main.58bce7e6.chunk.js",
+    "main.js.map": "/github-pages-COVID-Ukraine-React/static/js/main.58bce7e6.chunk.js.map",
+    "runtime-main.js": "/github-pages-COVID-Ukraine-React/static/js/runtime-main.3a597ae1.js",
+    "runtime-main.js.map": "/github-pages-COVID-Ukraine-React/static/js/runtime-main.3a597ae1.js.map",
+    "static/js/2.b3046ac3.chunk.js": "/github-pages-COVID-Ukraine-React/static/js/2.b3046ac3.chunk.js",
+    "static/js/2.b3046ac3.chunk.js.map": "/github-pages-COVID-Ukraine-React/static/js/2.b3046ac3.chunk.js.map",
+    "index.html": "/github-pages-COVID-Ukraine-React/index.html",
+    "precache-manifest.21bcd61762c034a0089328d55708da6b.js": "/github-pages-COVID-Ukraine-React/precache-manifest.21bcd61762c034a0089328d55708da6b.js",
+    "service-worker.js": "/github-pages-COVID-Ukraine-React/service-worker.js",
+    "static/css/main.99eaa828.chunk.css.map": "/github-pages-COVID-Ukraine-React/static/css/main.99eaa828.chunk.css.map",
+    "static/js/2.b3046ac3.chunk.js.LICENSE.txt": "/github-pages-COVID-Ukraine-React/static/js/2.b3046ac3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a597ae1.js",
+    "static/js/2.b3046ac3.chunk.js",
+    "static/css/main.99eaa828.chunk.css",
+    "static/js/main.58bce7e6.chunk.js"
+  ]
+}
